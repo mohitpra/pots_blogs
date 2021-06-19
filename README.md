@@ -2,6 +2,9 @@
 post your blogs and see other's blogs.
 
 
+To create new Blog simply go to compose page by appending /compose to home url.
+
+
 Link to the website: 
 
 https://vast-crag-92036.herokuapp.com/
